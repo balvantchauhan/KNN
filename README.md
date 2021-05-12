@@ -29,9 +29,12 @@ So let's have a look. how to work with KNN on the __Breast Cancer Wisconsin (Dia
 For batter understanding, Please go through the notebook that i have uploaded. 
 
 
-![taring_accuracy](https://user-images.githubusercontent.com/8578949/117967007-372f6b00-b342-11eb-9865-cbfd426ea20f.png)
-
+ <p align="center"> 
+    <img src=![taring_accuracy](https://user-images.githubusercontent.com/8578949/117967007-372f6b00-b342-11eb-9865-cbfd426ea20f.png) alt="alternate text">
+ </p>
 <div align=”center”> Train and test accuracy of a KNN model performed on a test example </div>
+
+
 
 From the plot given above, you can see that at a k value of 7, the accuracy of the test data is the highest, and when k > 7, the accuracy remains constant. 
 
