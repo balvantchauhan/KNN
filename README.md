@@ -17,3 +17,11 @@ What should the ideal k value be? And what happens if you change it? Let's under
 ![KNN](https://user-images.githubusercontent.com/8578949/117966334-698c9880-b341-11eb-8c19-8a2e50bf9330.png)
 
 
+As you can see, an increase in the k-value causes the decision boundary between the two classes to become smooth. 
+
+When k = 1 for a data point, the model observes the immediate neighbour, i.e., it is understanding the noise as well, which is causing it to overfit the data. 
+When k = 5, the model observes the five nearest neighbours for a data point. Therefore, the decision boundary starts becoming smooth.
+When k = 10, the model observes the 10 nearest neighbours for a data point. Here, the decision boundary becomes smoother.
+
+
+So let's have a look. how to work with KNN on the __Breast Cancer Wisconsin (Diagnostic) Database__ to help you gain a practical understanding of this concept.
