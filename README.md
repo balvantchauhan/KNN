@@ -31,7 +31,7 @@ For batter understanding, Please go through the notebook that i have uploaded.
 ![taring_accuracy](https://user-images.githubusercontent.com/8578949/117967007-372f6b00-b342-11eb-9865-cbfd426ea20f.png)
 
 <p align="center">
-     Train and test accuracy of a KNN model performed on a test example
+     ## Train and test accuracy of a KNN model performed on a test example
 </p>
 
 
