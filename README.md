@@ -2,7 +2,7 @@
 ## Supervised Machine Learning Algorithm
 
 
-KNN: K-nearest neighbour is a simple, supervised machine learning algorithm that is used for both classification and regression tasks. It performs these tasks by identifying the neighbours that are the nearest to a data point. For classification tasks, it takes the majority vote, and for regression tasks, it takes the average value from the neighbours. 
+__KNN:__ K-nearest neighbour is a simple, supervised machine learning algorithm that is used for both classification and regression tasks. It performs these tasks by identifying the neighbours that are the nearest to a data point. For classification tasks, it takes the majority vote, and for regression tasks, it takes the average value from the neighbours. 
 
  
 
