@@ -7,3 +7,10 @@ __KNN:__ K-nearest neighbour is a simple, supervised machine learning algorithm 
  
 
 The k in KNN specifies the number of neighbours that the algorithm should focus on. For example, if k = 3, then, for a particular test data, the algorithm observes the three nearest neighbours and takes the majority vote from them. Depending on the majority of the classes from the three nearby points, the algorithm classifies the test data.
+
+The k value should be an odd number because you have to take the majority vote from the nearest neighbours by breaking the ties. 
+
+
+What should the ideal k value be? And what happens if you change it? Let's understand this with the help of the following diagrams that show the separation boundary between two classes for different values of 'k'.
+
+
