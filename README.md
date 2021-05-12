@@ -14,3 +14,5 @@ The k value should be an odd number because you have to take the majority vote f
 What should the ideal k value be? And what happens if you change it? Let's understand this with the help of the following diagrams that show the separation boundary between two classes for different values of 'k'.
 
 
+https://github.com/balvantchauhan/KNN/blob/main/KNN.png
+
